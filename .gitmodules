@@ -1,0 +1,6 @@
+[submodule "Lore-Common"]
+	path = Lore-Common
+	url = https://github.com/Lore-BPS/Lore-Common
+[submodule "Lore-Fronton-Test"]
+	path = Lore-Fronton-Test
+	url = https://github.com/Lore-BPS/Lore-Fronton-Test
