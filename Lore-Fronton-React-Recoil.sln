@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lore-Fronton-React-Recoil", "Lore-Fronton-React-Recoil\Lore-Fronton-React-Recoil.csproj", "{38D64B98-5D90-49B6-8063-E4E750F79F16}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lore-Fronton-Test-xUnit", "Lore-Fronton-Test\Lore-Fronton-Test-xUnit\Lore-Fronton-Test-xUnit.csproj", "{E88A746F-07DB-4A53-A964-FBFE42BAD943}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38D64B98-5D90-49B6-8063-E4E750F79F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D64B98-5D90-49B6-8063-E4E750F79F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D64B98-5D90-49B6-8063-E4E750F79F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D64B98-5D90-49B6-8063-E4E750F79F16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E88A746F-07DB-4A53-A964-FBFE42BAD943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88A746F-07DB-4A53-A964-FBFE42BAD943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88A746F-07DB-4A53-A964-FBFE42BAD943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88A746F-07DB-4A53-A964-FBFE42BAD943}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5FCE466-6A80-468F-B5BD-343B5288206C}
+	EndGlobalSection
+EndGlobal
