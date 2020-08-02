@@ -4,3 +4,6 @@
 [submodule "Lore-Fronton-Test"]
 	path = Lore-Fronton-Test
 	url = https://github.com/Lore-BPS/Lore-Fronton-Test
+[submodule "Lore-Data-Access-Library"]
+	path = Lore-Data-Access-Library
+	url = https://github.com/Lore-BPS/Lore-Data-Access-Library
