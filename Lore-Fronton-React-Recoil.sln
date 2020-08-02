@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lore-Fronton-React-Recoil",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lore-Fronton-Test-xUnit", "Lore-Fronton-Test\Lore-Fronton-Test-xUnit\Lore-Fronton-Test-xUnit.csproj", "{E88A746F-07DB-4A53-A964-FBFE42BAD943}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lore-Data-Access-Library", "Lore-Data-Access-Library\Lore-Data-Access-Library\Lore-Data-Access-Library.csproj", "{EFF83B7B-FBFF-4C6F-A0E3-B95CFC37C5FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E88A746F-07DB-4A53-A964-FBFE42BAD943}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E88A746F-07DB-4A53-A964-FBFE42BAD943}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E88A746F-07DB-4A53-A964-FBFE42BAD943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFF83B7B-FBFF-4C6F-A0E3-B95CFC37C5FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF83B7B-FBFF-4C6F-A0E3-B95CFC37C5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF83B7B-FBFF-4C6F-A0E3-B95CFC37C5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF83B7B-FBFF-4C6F-A0E3-B95CFC37C5FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
