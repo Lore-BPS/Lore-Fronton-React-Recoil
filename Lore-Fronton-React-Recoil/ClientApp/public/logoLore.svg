@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400pt"
+   height="400pt"
+   viewBox="0 0 141.11112 141.11111"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="logoLore_2.svg">
+  <title
+     id="title129">Lore_logo</title>
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : -7.3888933 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="140.07443 : -18.350206 : 1"
+       inkscape:persp3d-origin="105.00001 : -56.888894 : 1"
+       id="perspective51" />
+    <rect
+       x="6.0476189"
+       y="33.261906"
+       width="164.79762"
+       height="91.470245"
+       id="rect32" />
+    <rect
+       x="141.3631"
+       y="232.07738"
+       width="6.8035712"
+       height="24.946428"
+       id="rect26" />
+    <rect
+       x="13.607143"
+       y="148.16667"
+       width="211.66667"
+       height="157.2381"
+       id="rect20" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8544"
+       id="linearGradient8546"
+       x1="248.33035"
+       y1="27.214285"
+       x2="250.22025"
+       y2="109.23512"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8544">
+      <stop
+         style="stop-color:#214478;stop-opacity:1;"
+         offset="0"
+         id="stop8540" />
+      <stop
+         style="stop-color:#58d26d;stop-opacity:0.49593499"
+         offset="1"
+         id="stop8542" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     units="pt"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.85761589"
+     inkscape:cx="86.768051"
+     inkscape:cy="432.15995"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="3192"
+     inkscape:window-y="4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Lore_logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 2"
+     id="layer3"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:type="star"
+       style="display:inline;fill:url(#linearGradient8546);fill-opacity:1;stroke-width:0.264583"
+       id="path7694"
+       sodipodi:sides="7"
+       sodipodi:cx="250.22025"
+       sodipodi:cy="68.413696"
+       sodipodi:r1="32.294292"
+       sodipodi:r2="43.157295"
+       sodipodi:arg1="2.1393208"
+       sodipodi:arg2="0.36870881"
+       inkscape:flatsided="false"
+       inkscape:rounded="-0.14"
+       inkscape:randomized="0.01"
+       d="m 232.92569,95.656452 c -0.77902,-8.23065 53.39281,-18.366359 57.70556,-11.398914 5.38201,8.694875 -80.36888,-5.47074 -72.92187,-12.519379 5.9675,-5.648272 48.28485,30.428541 45.48225,38.154541 -3.49744,9.64148 -45.8604,-66.436129 -35.7393,-64.839105 8.11032,1.27974 6.09441,56.694715 -1.63655,59.417685 -9.64768,3.39808 22.8144,-77.031292 28.11676,-68.276663 4.24892,7.015328 -40.12666,40.49002 -47.02166,36.004766 -8.60446,-5.597277 74.94465,-30.201542 71.12412,-20.608873 -3.0615,7.686873 -56.5142,-6.65887 -57.44543,-14.849632 -1.16209,-10.221485 70.18481,38.981196 60.42457,42.186672 -7.82115,2.568638 -30.72152,-47.829111 -24.78679,-53.562685 7.40611,-7.15509 13.1543,79.431825 4.68286,73.663021 -6.7884,-4.622703 18.63319,-53.712744 26.7929,-52.629009 10.18272,1.352423 -53.80526,59.528843 -54.77742,49.257575 z"
+       inkscape:transform-center-x="-9.0421942"
+       inkscape:transform-center-y="2.0888411"
+       transform="matrix(1.6682576,0,0,1.6447775,-344.14267,-41.0278)" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text18"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:Centaur;-inkscape-font-specification:Centaur;white-space:pre;shape-inside:url(#rect20);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       id="text24"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect26);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       id="text30"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect32);fill:#ffc000;fill-opacity:1;stroke:none;"
+       transform="matrix(1.2225236,0,0,1.3595042,-1.7528047,-22.794065)"><tspan
+         x="6.046875"
+         y="79.608098"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:Papyrus;-inkscape-font-specification:'Papyrus Bold';fill:#ffc000;fill-opacity:1">Lore</tspan></tspan></text>
+  </g>
+</svg>
