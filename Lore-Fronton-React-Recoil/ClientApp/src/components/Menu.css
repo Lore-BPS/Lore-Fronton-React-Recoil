@@ -1,5 +1,43 @@
-﻿body {
-    font-family: "Lato", sans-serif;
+﻿input {
+    margin: 8px 8px 8px 8px;
+
+}
+
+img {
+    vertical-align: middle;
+    text-align: center;
+    align-content: center;
+    align-self: center;
+    width: 180pt;
+    height: 180pt;
+}
+
+#menu-search {
+    width: 90%;
+}
+
+#nav-system {
+    color: white;
+    background-color: black;  
+    height: 100%;
+}
+
+.navbar-brand {
+    text-align: center;
+    align-content: center;
+    align-self: center;
+}
+
+#lore-logo {
+    vertical-align: middle;
+    text-align: center;
+    align-content: center;
+    align-self: center;
+}
+
+Nav {
+    width: 200pt;
+
 }
 
 .sidenav {
@@ -12,7 +50,8 @@
     background-color: #111;
     overflow-x: hidden;
     transition: 0.5s;
-    padding-top: 60px;
+    padding: 8px 8px 8px 32px;
+    margin: 8px 8px 8px 8px;
 }
 
     .sidenav a {
@@ -25,10 +64,11 @@
     }
 
         .sidenav a:hover {
-            color: #f1f1f1;
+            color: #4cff00;
         }
 
     .sidenav .closebtn {
+        padding: 8px 8px 8px 32px;
         position: absolute;
         top: 0;
         right: 25px;
@@ -39,6 +79,7 @@
 #main {
     transition: margin-left .5s;
     padding: 16px;
+    margin: 8px 8px 8px 8px;
 }
 
 @media screen and (max-height: 450px) {
