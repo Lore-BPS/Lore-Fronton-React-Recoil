@@ -18,8 +18,13 @@ img {
 
 #nav-system {
     color: white;
-    background-color: black;  
+    background-color: #2f2f30;
     height: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    overflow: hidden;
 }
 
 .navbar-brand {

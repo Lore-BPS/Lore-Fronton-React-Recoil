@@ -2,8 +2,11 @@
 import { Nav, NavItem, NavLink, NavbarBrand, Navbar, NavDropdown, Container } from 'reactstrap';
 import './Menu.css';
 import '../../public/logoLore.svg';
-import { Admin } from './Admin.js'
-import { Tools } from './Tools.js'
+//import { MenuElement } from './MenuElement.js'
+
+import Admin from './../Admin'
+import Tools from './../Tools.js'
+import Processes from './../Processes.js'
 
 export class Menu extends Component {
     static displayName = Menu.name;
@@ -54,32 +57,7 @@ export class Menu extends Component {
                         <nav className="pf-c-nav" aria-label="Global" data-ouia-component-type="PF4/Nav" data-ouia-safe="true" data-ouia-component-id="10">
                             <Admin />
                             <Tools />
-                        <section className="pf-c-nav__section" aria-labelledby="section-title-Narzędzia">
-                            <div className="nav-group-heading">
-                                <h2 className="pf-c-nav__section-title" id="section-title-Narzędzia">Narzędzia</h2>
-                            </div>
-                            <ul className="pf-c-nav__list">
-                                <li className="pf-c-nav__item nav-item">
-                                <span className="pf-c-nav__link" data-for="/updates">
-                                    <a href="/updates">Aktualizacje oprogramowania</a></span>
-                                </li>
-                                <li className="pf-c-nav__item nav-item">
-                                    <span className="pf-c-nav__link" data-for="/apps">
-                                        <a href="/apps">Aplikacje</a>
-                                    </span>
-                                </li>
-                                <li className="pf-c-nav__item nav-item">
-                                    <span className="pf-c-nav__link" data-for="/selinux/setroubleshoot">
-                                        <a href="/selinux/setroubleshoot">SELinux</a>
-                                    </span>
-                                </li>
-                                <li className="pf-c-nav__item nav-item">
-                                    <span className="pf-c-nav__link" data-for="/system/terminal">
-                                        <a href="/system/terminal">Terminal</a>
-                                    </span>
-                                </li>
-                            </ul>
-                        </section>
+                            <Processes />
                     </nav></nav></div>
 
         )
