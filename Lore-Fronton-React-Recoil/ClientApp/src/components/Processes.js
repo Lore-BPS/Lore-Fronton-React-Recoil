@@ -6,17 +6,17 @@ export default class Processes extends Component {
 
     render() {
         return (
-            <section className="pf-c-nav__section" aria-labelledby="section-title-tools">
-                <div className="nav-group-heading">
-                    <h2 className="pf-c-nav__section-title" id="section-title-tools">Procesy</h2>
+            <section>
+                <div>
+                    <h2>Procesy</h2>
                 </div>
-                <ul className="pf-c-nav__list">
-                    <li className="pf-c-nav__item nav-item">
-                        <span className="pf-c-nav__link" data-for="/">
+                <ul>
+                    <li>
+                        <span>
                             <a href="/updates">PlaceHolder</a></span>
                     </li>
-                    <li className="pf-c-nav__item nav-item">
-                        <span className="pf-c-nav__link" data-for="/apps">
+                    <li>
+                        <span>
                             <a href="/apps">Aplikacje</a>
                         </span>
                     </li>

@@ -6,22 +6,22 @@ export default class Admin extends Component {
 
 render() {
         return (
-            <section class="pf-c-nav__section" aria-labelledby="section-title-Administracja">
-                <div class="nav-group-heading">
-                    <h2 class="pf-c-nav__section-title" id="section-title-Administracja">Administracja</h2>
+            <section>
+                <div >
+                    <h2 id="admin">Administracja</h2>
                 </div>
-                <ul class="pf-c-nav__list">
-                    <li class="nav-item">
-                        <span data-for="/dashboard">
+                <ul>
+                    <li>
+                        <span>
                             <a href="/dashboard">Panel kontrolny</a>
                         </span>
                     </li>
-                    <li class="nav-item">
-                        <span class="pf-c-nav__link" data-for="/services">
+                    <li>
+                        <span>
                             <a href="/services">Serwisy</a>
                         </span>
                     </li>
-                    <li className="nav-item">
+                    <li>
                         <span data-for="/updates">
                             <a href="/updates">Aktualizacje</a></span>
                     </li>

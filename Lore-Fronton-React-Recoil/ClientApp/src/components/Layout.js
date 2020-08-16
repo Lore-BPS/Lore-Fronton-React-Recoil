@@ -10,7 +10,7 @@ export class Layout extends Component {
     return (
       <div>
         <Menu />
-            <Container class="float-right col-10 mx-auto">
+            <Container className="float-right col-10 mx-auto">
           {this.props.children}
         </Container>
       </div>

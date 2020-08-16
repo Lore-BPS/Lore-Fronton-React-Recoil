@@ -6,25 +6,22 @@ export default class Tools extends Component {
 
 render() {
     return (
-        <section class="pf-c-nav__section" aria-labelledby="section-title-Narzędzia">
+        <section>
 
-            <div class="nav-group-heading">
-                <h2 class="pf-c-nav__section-title" id="section-title-Narzędzia">Narzędzia</h2>
+            <div>
+                <h2>Narzędzia</h2>
             </div>
-
-            <ul class="pf-c-nav__list">
-
-                <li class="pf-c-nav__item nav-item">
-                    <span class="pf-c-nav__link" data-for="/dashboard">
+            <ul>
+                <li>
+                    <span>
                         <a href="/dashboard">Panel kontrolny</a>
                     </span>
                 </li>
-                <li className="pf-c-nav__item nav-item">
-                    <span className="pf-c-nav__link" data-for="/designer">
+                <li>
+                    <span>
                         <a href="/designer">Designer</a>
                     </span>
                 </li>
-
             </ul>
         </section>
         )

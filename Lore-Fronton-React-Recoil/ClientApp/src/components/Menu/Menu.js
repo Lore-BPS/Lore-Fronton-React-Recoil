@@ -38,27 +38,21 @@ export class Menu extends Component {
         document.removeEventListener('click', this.handleClick, false);
     }
 
-
-
-
-
     render() {
         return (
-            <div id="nav-system" className="area-ct-subnav nav-system-menu sidebar float-left mx-auto">
+            <div id="nav-system" className="col-2">
                 <NavbarBrand>
-                    <img id="lore-logo" src="logoLore.svg" alt="Logo Lore" className="text-center float-center flex align-top" />
+                    <img id="lore-logo" src="logoLore.svg" alt="Logo Lore"/>
                 </NavbarBrand>
-                <nav id="host-apps" className="host-apps">
-                    <div className="has-feedback search">
-                        <input id="menu-search" className="filter-menus form-control" type="search" placeholder="Szukaj" aria-label="Szukaj" value="" />
-                            <span className="fa fa-search form-control-feedback">
-                            </span>
-                            </div>
-                        <nav className="pf-c-nav" aria-label="Global" data-ouia-component-type="PF4/Nav" data-ouia-safe="true" data-ouia-component-id="10">
-                            <Admin />
-                            <Tools />
-                            <Processes />
-                    </nav></nav></div>
+                <nav>
+                    <div>
+                        <input id="menu-search" className="filter-menus form-control" type="search" placeholder="Szukaj" defaultValue="" />
+                    </div>
+                    <nav>
+                        <Admin />
+                        <Tools />
+                        <Processes />
+                </nav></nav></div>
 
         )
     }
