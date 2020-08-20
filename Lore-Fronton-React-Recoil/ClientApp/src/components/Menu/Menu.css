@@ -1,6 +1,5 @@
 ﻿input {
     margin: 8px 8px 8px 8px;
-
 }
 
 img {
@@ -13,7 +12,7 @@ img {
 }
 
 #menu-search {
-    width: 90%;
+    width: 95%;
 }
 
 #nav-system {
@@ -40,9 +39,8 @@ img {
     align-self: center;
 }
 
-Nav {
+#nav-system {
     width: 200pt;
-
 }
 
 .sidenav {
@@ -91,7 +89,6 @@ Nav {
     .sidenav {
         padding-top: 15px;
     }
-
         .sidenav a {
             font-size: 18px;
         }

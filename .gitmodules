@@ -7,3 +7,6 @@
 [submodule "Lore-Data-Access-Library"]
 	path = Lore-Data-Access-Library
 	url = https://github.com/Lore-BPS/Lore-Data-Access-Library
+[submodule "react-diagrams"]
+	path = react-diagrams
+	url = https://github.com/projectstorm/react-diagrams

@@ -8,8 +8,18 @@ import App from './App';
 const baseUrl = document.getElementsByTagName('base')[0].getAttribute('href');
 const rootElement = document.getElementById('root');
 
+// type basename = {
+//   text: string,
+//   baseUrl: string
+// }
+
+// type baseUrl = {
+//   text: string,
+//   baseUrl: string
+// }
+
 ReactDOM.render(
-  <BrowserRouter basename={baseUrl}>
+  <BrowserRouter basename={baseUrl} >
     <App />
   </BrowserRouter>,
   rootElement);

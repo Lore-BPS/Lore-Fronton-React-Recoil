@@ -13,7 +13,7 @@ export default class Processes extends Component {
                 <ul>
                     <li>
                         <span>
-                            <a href="/updates">PlaceHolder</a></span>
+                            <a href="/workflows">Przepywy Pracy</a></span>
                     </li>
                     <li>
                         <span>
