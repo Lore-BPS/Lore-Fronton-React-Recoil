@@ -1,8 +1,8 @@
-﻿input {
+﻿input.menu {
     margin: 8px 8px 8px 8px;
 }
 
-img {
+img.menu  {
     vertical-align: middle;
     text-align: center;
     align-content: center;
@@ -11,11 +11,11 @@ img {
     height: 180pt;
 }
 
-#menu-search {
+#menu-search.menu {
     width: 95%;
 }
 
-#nav-system {
+#nav-system.menu {
     color: white;
     background-color: #2f2f30;
     height: 100%;
@@ -26,24 +26,24 @@ img {
     overflow: hidden;
 }
 
-.navbar-brand {
+.navbar-brand.menu {
     text-align: center;
     align-content: center;
     align-self: center;
 }
 
-#lore-logo {
+#lore-logo.menu {
     vertical-align: middle;
     text-align: center;
     align-content: center;
     align-self: center;
 }
 
-#nav-system {
+#nav-system.menu {
     width: 200pt;
 }
 
-.sidenav {
+    .sidenav.menu {
     height: 100%;
     width: 0;
     position: fixed;
@@ -57,7 +57,7 @@ img {
     margin: 8px 8px 8px 8px;
 }
 
-    .sidenav a {
+ .sidenav a.menu {
         padding: 8px 8px 8px 32px;
         text-decoration: none;
         font-size: 25px;
@@ -66,11 +66,11 @@ img {
         transition: 0.3s;
     }
 
-        .sidenav a:hover {
+    .menu .sidenav a:hover {
             color: #4cff00;
         }
 
-    .sidenav .closebtn {
+    .menu .sidenav .closebtn {
         padding: 8px 8px 8px 32px;
         position: absolute;
         top: 0;
@@ -79,17 +79,17 @@ img {
         margin-left: 50px;
     }
 
-#main {
+#main.menu {
     transition: margin-left .5s;
     padding: 16px;
     margin: 8px 8px 8px 8px;
 }
 
 @media screen and (max-height: 450px) {
-    .sidenav {
+    .menu .sidenav {
         padding-top: 15px;
     }
-        .sidenav a {
+    .menu .sidenav a {
             font-size: 18px;
         }
 }

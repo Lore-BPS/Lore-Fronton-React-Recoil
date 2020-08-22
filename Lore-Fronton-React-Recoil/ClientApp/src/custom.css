@@ -1,7 +1,4 @@
 /* Provide sufficient contrast against white background */
-body{
-  background-color: rgba(83, 139, 144, 0.71);
-}
 a {
   color: #0366d6;
 }
